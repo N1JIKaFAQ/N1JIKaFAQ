@@ -4,14 +4,16 @@
 
 朋友们叫我 **熊猫 (Panda)** · 深圳技术大学 · 坐标深圳
 
-[![中文](https://img.shields.io/badge/中文-8FB6FF?style=for-the-badge)](#中文)
-[![English](https://img.shields.io/badge/English-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=8FB6FF)](#english)
+[![中文](https://img.shields.io/badge/中文-8FB6FF?style=for-the-badge)](#cn)
+[![English](https://img.shields.io/badge/English-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=8FB6FF)](#en)
 
 🌐 **[rainburst.cc](https://rainburst.cc)** —— 移动鼠标，成为一个大质量黑洞
 
 </div>
 
 ---
+
+<a id="cn"></a>
 
 ## 中文
 
@@ -37,10 +39,10 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=N1JIKaFAQ&theme=tokyo-night&hide_border=true&count_private=true&show_icons=true" alt="stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/streak?username=N1JIKaFAQ&theme=tokyo-night&hide_border=true" alt="streak" />
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=N1JIKaFAQ&theme=tokyo-night&hide_border=true&count_private=true&show_icons=true" alt="stats" />
+<img height="165em" src="https://streak-stats.demolab.com?user=N1JIKaFAQ&theme=tokyo-night&hide_border=true" alt="streak" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=N1JIKaFAQ&theme=tokyo-night&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![contribution graph](https://ghchart.rshah.org/8FB6FF/N1JIKaFAQ "每一格都是一次引力作用")](https://github.com/N1JIKaFAQ?tab=overview)
 
 </div>
 
@@ -54,6 +56,8 @@
 [🌐 rainburst.cc](https://rainburst.cc)
 
 ---
+
+<a id="en"></a>
 
 ## English
 
@@ -76,7 +80,7 @@ Panda is what friends call me. 🐼 Based in Shenzhen, studying at Shenzhen Tech
 ### ✉️ Reach me
 
 [📮 dbt2301008820@outlook.com](mailto:dbt2301008820@outlook.com) ·
-[🌐 rainburst.cc](https://rainburst.cc) · [↑ 中文](#中文)
+[🌐 rainburst.cc](https://rainburst.cc) · [↑ 中文](#cn)
 
 <div align="center">
 
