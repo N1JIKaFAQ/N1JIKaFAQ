@@ -4,8 +4,8 @@
 
 朋友们叫我 **熊猫 (Panda)** · 深圳技术大学 · 坐标深圳
 
-[![中文](https://img.shields.io/badge/中文-8FB6FF?style=for-the-badge)](#cn)
-[![English](https://img.shields.io/badge/English-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=8FB6FF)](#en)
+[![中文](https://img.shields.io/badge/中文-8FB6FF?style=for-the-badge)](#user-content-cn)
+[![English](https://img.shields.io/badge/English-FFFFFF?style=for-the-badge&logo=googletranslate&logoColor=8FB6FF)](#user-content-en)
 
 🌐 **[rainburst.cc](https://rainburst.cc)** —— 移动鼠标，成为一个大质量黑洞
 
@@ -80,7 +80,7 @@ Panda is what friends call me. 🐼 Based in Shenzhen, studying at Shenzhen Tech
 ### ✉️ Reach me
 
 [📮 dbt2301008820@outlook.com](mailto:dbt2301008820@outlook.com) ·
-[🌐 rainburst.cc](https://rainburst.cc) · [↑ 中文](#cn)
+[🌐 rainburst.cc](https://rainburst.cc) · [↑ 中文](#user-content-cn)
 
 <div align="center">
 
